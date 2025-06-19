@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>PL_1_301_977_0028.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT33" LABEL="Page" DESCRIPTION="block type Page"/><OtherTag ID="BT34" LABEL="Date" DESCRIPTION="block type Date"/><OtherTag ID="BT35" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT13" LABEL="Text" DESCRIPTION="line type Text"/><OtherTag ID="LT14" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2500"
+          HEIGHT="1790"
+          PHYSICAL_IMG_NR="73"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2500"
+                  HEIGHT="1790">
+        <TextBlock HPOS="378.0"
+                   VPOS="131.0"
+                   WIDTH="77.0"
+                   HEIGHT="59.0"
+                   ID="eSc_textblock_53d3ad87"
+                   TAGREFS="BT33">
+          <Shape><Polygon POINTS="378 131 378 190 455 190 455 131"/></Shape>
+          <TextLine ID="eSc_line_5dd54d0d"
+                    TAGREFS="LT2"
+                    BASELINE="390 170 442 168" 
+                    HPOS="388.0"
+                    VPOS="132.0"
+                    WIDTH="53.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="389 168 389 189 413 199 414 199 416 199 441 193 441 167 437 132 388 132 389 168"/></Shape>
+            <String CONTENT="52."
+                    HPOS="388.0"
+                    VPOS="132.0"
+                    WIDTH="53.0"
+                    HEIGHT="67.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="420.0"
+                   VPOS="192.0"
+                   WIDTH="793.0"
+                   HEIGHT="279.0"
+                   ID="eSc_textblock_61e5935b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="422 471 420 198 1213 192 1213 471"/></Shape>
+          <TextLine ID="eSc_line_64c4e225"
+                    TAGREFS="LT13"
+                    BASELINE="422 232 1203 217" 
+                    HPOS="419.0"
+                    VPOS="192.0"
+                    WIDTH="782.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="1195 192 822 193 556 198 479 196 473 199 419 193 420 246 498 253 586 243 629 250 673 241 719 249 764 240 810 247 820 238 1201 238 1200 192 1195 192"/></Shape>
+            <String CONTENT=". Die 26. Aprilis. Ego qui Supra. Baptisavi Filiu Nne Adalber:"
+                    HPOS="419.0"
+                    VPOS="192.0"
+                    WIDTH="782.0"
+                    HEIGHT="61.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e34093e5"
+                    TAGREFS="LT13"
+                    BASELINE="431 275 1186 255" 
+                    HPOS="428.0"
+                    VPOS="222.0"
+                    WIDTH="757.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="429 274 429 299 526 298 540 287 752 292 837 289 862 278 1017 281 1029 274 1056 283 1077 272 1153 280 1185 269 1185 253 1182 229 1086 222 1068 231 967 225 952 234 947 234 858 228 789 238 646 234 623 243 586 237 577 246 428 246 429 274"/></Shape>
+            <String CONTENT="tum Laboriosor Nicolai Dabrowski et Mariannæ CC. Legitt. Patrini"
+                    HPOS="428.0"
+                    VPOS="222.0"
+                    WIDTH="757.0"
+                    HEIGHT="77.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f4f4aa99"
+                    TAGREFS="LT13"
+                    BASELINE="430 321 1201 295" 
+                    HPOS="428.0"
+                    VPOS="264.0"
+                    WIDTH="772.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="429 320 431 346 473 334 537 338 643 328 698 335 741 325 789 332 814 322 861 331 900 322 965 326 986 317 1014 325 1091 314 1105 322 1200 317 1200 293 1197 268 1064 264 1052 272 979 267 967 275 938 268 852 281 428 290 429 320"/></Shape>
+            <String CONTENT="fuerunt M. D. Adalberto Turczynski. Administrator de Suburbio Lany,"
+                    HPOS="428.0"
+                    VPOS="264.0"
+                    WIDTH="772.0"
+                    HEIGHT="82.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bf6ad6d1"
+                    TAGREFS="LT13"
+                    BASELINE="428 361 1185 335" 
+                    HPOS="425.0"
+                    VPOS="304.0"
+                    WIDTH="758.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="426 360 426 372 550 380 582 368 610 377 679 362 737 362 744 369 750 369 779 360 804 371 950 365 961 356 974 365 1013 365 1031 355 1038 362 1086 360 1101 349 1120 359 1146 350 1182 352 1183 334 1179 311 1119 313 1091 304 1080 314 1010 310 991 317 973 308 967 308 959 316 895 311 886 320 862 314 850 322 831 314 785 322 713 317 695 325 686 319 679 319 670 329 610 322 601 332 564 332 552 323 547 323 425 337 426 360"/></Shape>
+            <String CONTENT="cu laboriosa Hima Jacycha. Adstantes fuerunt Laborioso Joannes"
+                    HPOS="425.0"
+                    VPOS="304.0"
+                    WIDTH="758.0"
+                    HEIGHT="76.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_197f2645"
+                    TAGREFS="LT13"
+                    BASELINE="432 406 1177 377" 
+                    HPOS="428.0"
+                    VPOS="341.0"
+                    WIDTH="748.0"
+                    HEIGHT="88.0">
+            <Shape><Polygon POINTS="431 405 431 420 458 429 464 429 474 419 532 425 576 414 616 425 668 411 686 422 916 413 955 401 977 410 1041 396 1052 407 1059 407 1070 395 1140 401 1146 392 1174 392 1176 375 1170 344 1135 355 1114 341 1108 341 1059 359 983 359 956 347 950 347 935 363 823 365 762 355 686 372 646 363 610 371 595 362 588 362 574 377 553 369 535 378 520 365 428 372 431 405"/></Shape>
+            <String CONTENT="Sakala, cu Anastasia Kolodziucha; Omnes fuerunt de Suburbio"
+                    HPOS="428.0"
+                    VPOS="341.0"
+                    WIDTH="748.0"
+                    HEIGHT="88.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_67983f5a"
+                    TAGREFS="LT13"
+                    BASELINE="436 450 658 442" 
+                    HPOS="432.0"
+                    VPOS="416.0"
+                    WIDTH="224.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="435 448 435 480 491 472 655 474 656 441 653 416 432 416 435 448"/></Shape>
+            <String CONTENT="Cognomine Potok."
+                    HPOS="432.0"
+                    VPOS="416.0"
+                    WIDTH="224.0"
+                    HEIGHT="64.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="649.0"
+                   VPOS="467.0"
+                   WIDTH="270.0"
+                   HEIGHT="77.0"
+                   ID="eSc_textblock_51ff0c94"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="649 544 649 467 919 467 919 544"/></Shape>
+          <TextLine ID="eSc_line_f101bd40"
+                    TAGREFS="LT13"
+                    BASELINE="647 528 919 526" 
+                    HPOS="646.0"
+                    VPOS="468.0"
+                    WIDTH="271.0"
+                    HEIGHT="80.0">
+            <Shape><Polygon POINTS="685 468 683 468 682 468 682 469 665 484 665 486 655 486 646 526 646 548 916 547 917 525 913 481 801 483 794 483 686 468 685 468"/></Shape>
+            <String CONTENT="Junius"
+                    HPOS="646.0"
+                    VPOS="468.0"
+                    WIDTH="271.0"
+                    HEIGHT="80.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="426.0"
+                   VPOS="551.0"
+                   WIDTH="783.0"
+                   HEIGHT="271.0"
+                   ID="eSc_textblock_10ae15ac"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="426 822 426 551 1209 551 1209 822"/></Shape>
+          <TextLine ID="eSc_line_24f0f9cf"
+                    TAGREFS="LT13"
+                    BASELINE="474 590 1196 573" 
+                    HPOS="471.0"
+                    VPOS="551.0"
+                    WIDTH="724.0"
+                    HEIGHT="59.0">
+            <Shape><Polygon POINTS="1188 551 914 554 910 551 886 551 883 554 874 551 850 551 846 557 779 557 771 551 673 551 665 560 647 551 471 551 473 599 507 610 537 599 604 608 629 598 711 605 735 595 770 604 801 593 864 601 937 590 1194 593 1195 572 1191 551 1188 551"/></Shape>
+            <String CONTENT="Die 21. Junii. Ego qui Supra. Baptisavi Filiu Nne Antonium"
+                    HPOS="471.0"
+                    VPOS="551.0"
+                    WIDTH="724.0"
+                    HEIGHT="59.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cef293d7"
+                    TAGREFS="LT13"
+                    BASELINE="433 629 1198 611" 
+                    HPOS="431.0"
+                    VPOS="584.0"
+                    WIDTH="766.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="432 627 432 644 494 654 495 654 777 647 779 647 804 638 814 635 895 636 974 638 976 638 999 635 1025 630 1029 633 1035 639 1035 641 1037 641 1038 641 1040 642 1065 642 1065 641 1067 641 1068 641 1068 639 1074 633 1079 629 1194 630 1197 610 1192 584 431 602 432 627"/></Shape>
+            <String CONTENT="Nobiliu Casimiri Bogumily, et Annæ. CC.LL. Patrini fuerunt M."
+                    HPOS="431.0"
+                    VPOS="584.0"
+                    WIDTH="766.0"
+                    HEIGHT="70.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e104f669"
+                    TAGREFS="LT13"
+                    BASELINE="439 676 1200 651" 
+                    HPOS="437.0"
+                    VPOS="622.0"
+                    WIDTH="763.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="438 675 438 693 532 690 564 698 588 690 619 698 652 689 1019 684 1110 671 1189 678 1200 671 1200 650 1197 622 1092 622 1061 630 1034 623 931 626 923 635 888 629 880 636 794 630 746 641 710 633 691 642 661 635 652 644 623 636 558 647 528 639 522 639 508 648 480 641 437 651 438 675"/></Shape>
+            <String CONTENT="Dno Jacobo Sobolewski, cu Perillstri M. Dna Victoria Gosciminska"
+                    HPOS="437.0"
+                    VPOS="622.0"
+                    WIDTH="763.0"
+                    HEIGHT="76.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3bcea6c5"
+                    TAGREFS="LT13"
+                    BASELINE="437 716 1192 693" 
+                    HPOS="434.0"
+                    VPOS="663.0"
+                    WIDTH="757.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="435 714 435 729 635 733 732 730 744 721 788 729 1191 708 1191 692 1188 669 1086 663 1079 672 1052 665 1025 675 965 671 820 681 810 674 805 674 761 683 694 677 680 687 632 687 586 678 582 678 574 689 495 681 434 692 435 714"/></Shape>
+            <String CONTENT="Pocillatrice Nuren. Adstantes fuerunt, M. ae Gnso Dno Andreas"
+                    HPOS="434.0"
+                    VPOS="663.0"
+                    WIDTH="757.0"
+                    HEIGHT="70.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_62b4abde"
+                    TAGREFS="LT13"
+                    BASELINE="438 754 1202 736" 
+                    HPOS="435.0"
+                    VPOS="704.0"
+                    WIDTH="766.0"
+                    HEIGHT="74.0">
+            <Shape><Polygon POINTS="437 753 437 771 488 778 492 778 502 765 626 763 661 774 723 766 819 771 826 762 871 769 888 757 973 763 1025 754 1056 754 1068 765 1073 765 1120 763 1129 754 1171 762 1201 750 1201 735 1197 704 1119 705 1098 716 935 718 920 710 913 710 902 720 861 720 822 711 802 721 752 713 728 723 647 718 580 726 565 718 559 718 547 727 501 720 495 721 491 727 471 720 435 726 437 753"/></Shape>
+            <String CONTENT="Karaszewski, cu M. Dna Anna Gruszewska Vidua; Omnes fuerunt"
+                    HPOS="435.0"
+                    VPOS="704.0"
+                    WIDTH="766.0"
+                    HEIGHT="74.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6259424d"
+                    TAGREFS="LT13"
+                    BASELINE="443 791 804 787" 
+                    HPOS="440.0"
+                    VPOS="756.0"
+                    WIDTH="362.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="441 790 443 818 476 804 562 804 617 804 631 815 631 817 632 817 634 817 635 817 802 814 802 786 798 765 741 766 740 765 731 757 731 756 729 756 728 756 702 756 701 756 653 768 649 768 647 768 634 757 632 757 631 757 559 757 558 757 556 757 555 757 538 769 537 771 440 771 441 790"/></Shape>
+            <String CONTENT="protune de Villa Rohaczyn."
+                    HPOS="440.0"
+                    VPOS="756.0"
+                    WIDTH="362.0"
+                    HEIGHT="62.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="686.0"
+                   VPOS="817.0"
+                   WIDTH="238.0"
+                   HEIGHT="78.0"
+                   ID="eSc_textblock_a30b07a7"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="686 895 686 817 924 817 924 895"/></Shape>
+          <TextLine ID="eSc_line_83631a3f"
+                    TAGREFS="LT13"
+                    BASELINE="680 878 925 880" 
+                    HPOS="677.0"
+                    VPOS="818.0"
+                    WIDTH="246.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="679 877 677 911 922 908 923 878 920 826 868 833 837 827 792 820 791 820 789 820 788 820 774 830 771 833 767 830 753 818 752 818 750 818 716 818 714 818 713 818 679 832 679 877"/></Shape>
+            <String CONTENT="Julius"
+                    HPOS="677.0"
+                    VPOS="818.0"
+                    WIDTH="246.0"
+                    HEIGHT="93.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="432.0"
+                   VPOS="899.0"
+                   WIDTH="785.0"
+                   HEIGHT="231.0"
+                   ID="eSc_textblock_cf2a804b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="437 1130 432 906 1215 899 1217 1120"/></Shape>
+          <TextLine ID="eSc_line_132f2716"
+                    TAGREFS="LT13"
+                    BASELINE="468 941 1186 934" 
+                    HPOS="465.0"
+                    VPOS="899.0"
+                    WIDTH="720.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="1167 899 941 909 913 900 841 909 817 902 805 902 786 911 698 903 668 911 652 903 634 903 611 912 523 905 485 905 465 912 467 956 541 950 552 959 616 960 629 950 686 948 740 959 780 948 819 959 832 948 886 947 902 959 999 959 1067 947 1183 947 1185 933 1180 899 1167 899"/></Shape>
+            <String CONTENT="Die 18. Julii. Ego qui Supra. Baptisavi Filium Nne"
+                    HPOS="465.0"
+                    VPOS="899.0"
+                    WIDTH="720.0"
+                    HEIGHT="61.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_37fa8a52"
+                    TAGREFS="LT13"
+                    BASELINE="435 979 1196 968" 
+                    HPOS="432.0"
+                    VPOS="945.0"
+                    WIDTH="763.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="434 978 434 1005 477 997 588 1002 622 1003 623 1003 625 1003 629 1000 649 991 697 997 698 997 820 988 861 994 877 996 879 996 880 996 886 993 897 988 902 993 908 997 910 997 911 997 913 999 955 999 955 997 1041 990 1059 996 1061 996 1062 996 1064 996 1089 987 1100 984 1117 987 1171 994 1173 994 1174 994 1195 984 1195 966 1191 945 432 957 434 978"/></Shape>
+            <String CONTENT="Joannem Jacobum honesti Valentini Wybranowski, et Hedvigis"
+                    HPOS="432.0"
+                    VPOS="945.0"
+                    WIDTH="763.0"
+                    HEIGHT="60.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_122c1cc3"
+                    TAGREFS="LT13"
+                    BASELINE="439 1022 1205 1005" 
+                    HPOS="438.0"
+                    VPOS="977.0"
+                    WIDTH="766.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="438 1021 438 1036 520 1044 586 1032 629 1042 638 1030 682 1039 707 1026 726 1036 771 1029 820 1038 947 1023 1013 1033 1047 1018 1201 1021 1204 1003 1201 983 1077 977 1058 985 707 985 689 993 637 987 625 996 532 996 501 990 438 991 438 1021"/></Shape>
+            <String CONTENT="CC. LL. Patrini fuerunt Honestus Joannes Haurylcow, cum hone:"
+                    HPOS="438.0"
+                    VPOS="977.0"
+                    WIDTH="766.0"
+                    HEIGHT="67.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_139c338d"
+                    TAGREFS="LT13"
+                    BASELINE="441 1063 1202 1047" 
+                    HPOS="438.0"
+                    VPOS="1012.0"
+                    WIDTH="763.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="440 1062 444 1082 450 1074 480 1074 605 1084 628 1071 661 1081 716 1068 785 1074 840 1066 864 1079 923 1079 941 1069 964 1076 994 1062 1077 1072 1082 1072 1092 1063 1105 1074 1201 1071 1201 1045 1198 1014 1074 1012 1052 1023 1026 1017 989 1024 913 1017 901 1026 883 1018 874 1018 850 1027 780 1018 764 1029 744 1020 738 1020 725 1029 570 1026 552 1033 525 1026 486 1035 438 1027 440 1062"/></Shape>
+            <String CONTENT="sta Marianna Nakurniaczka. Adstantes fuerunt: Leo Lemieszka"
+                    HPOS="438.0"
+                    VPOS="1012.0"
+                    WIDTH="763.0"
+                    HEIGHT="72.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0d24932d"
+                    TAGREFS="LT13"
+                    BASELINE="442 1104 1092 1089" 
+                    HPOS="440.0"
+                    VPOS="1056.0"
+                    WIDTH="651.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="441 1103 441 1118 653 1117 677 1135 685 1135 708 1117 768 1114 794 1132 852 1120 864 1130 1091 1124 1088 1066 1034 1056 956 1068 894 1060 865 1069 846 1062 826 1071 789 1062 698 1063 632 1075 613 1066 607 1066 600 1074 486 1069 440 1079 441 1103"/></Shape>
+            <String CONTENT="cu Xenia Drabikowa. Omnes fuerunt de Narajow."
+                    HPOS="440.0"
+                    VPOS="1056.0"
+                    WIDTH="651.0"
+                    HEIGHT="79.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="686.0"
+                   VPOS="1134.0"
+                   WIDTH="311.0"
+                   HEIGHT="70.0"
+                   ID="eSc_textblock_819f7b4d"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="686 1204 686 1134 997 1134 997 1204"/></Shape>
+          <TextLine ID="eSc_line_cdf59efc"
+                    TAGREFS="LT13"
+                    BASELINE="677 1185 991 1185" 
+                    HPOS="676.0"
+                    VPOS="1135.0"
+                    WIDTH="313.0"
+                    HEIGHT="74.0">
+            <Shape><Polygon POINTS="900 1135 898 1135 858 1147 710 1135 708 1135 707 1135 676 1148 676 1184 676 1200 734 1209 735 1209 989 1200 989 1184 989 1150 901 1135 900 1135"/></Shape>
+            <String CONTENT="September_"
+                    HPOS="676.0"
+                    VPOS="1135.0"
+                    WIDTH="313.0"
+                    HEIGHT="74.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="432.0"
+                   VPOS="1204.0"
+                   WIDTH="788.0"
+                   HEIGHT="440.0"
+                   ID="eSc_textblock_8262bd9a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1220 1644 1220 1204 432 1204 432 1644"/></Shape>
+          <TextLine ID="eSc_line_3c48c9b4"
+                    TAGREFS="LT13"
+                    BASELINE="471 1241 1217 1230" 
+                    HPOS="468.0"
+                    VPOS="1205.0"
+                    WIDTH="748.0"
+                    HEIGHT="53.0">
+            <Shape><Polygon POINTS="1200 1205 846 1205 811 1208 804 1205 774 1205 770 1208 767 1205 679 1205 671 1211 634 1205 607 1205 598 1211 486 1205 468 1212 470 1251 573 1258 665 1250 677 1257 683 1257 701 1248 723 1255 729 1255 737 1248 795 1254 840 1247 886 1254 911 1245 985 1251 1001 1251 1022 1244 1046 1251 1214 1250 1216 1229 1213 1205 1200 1205"/></Shape>
+            <String CONTENT="Die 9na 7bris. Ego qui Supra Baptisavi Filia Nne Justina Bri:"
+                    HPOS="468.0"
+                    VPOS="1205.0"
+                    WIDTH="748.0"
+                    HEIGHT="53.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7a516967"
+                    TAGREFS="LT13"
+                    BASELINE="438 1282 501 1277 1218 1268" 
+                    HPOS="435.0"
+                    VPOS="1238.0"
+                    WIDTH="782.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="437 1281 437 1306 492 1297 510 1306 756 1303 768 1293 777 1302 782 1303 891 1303 900 1294 926 1300 1023 1285 1216 1284 1217 1267 1213 1245 1140 1238 1077 1247 922 1241 880 1250 782 1242 717 1251 705 1244 698 1244 691 1251 665 1244 650 1253 468 1247 435 1255 437 1281"/></Shape>
+            <String CONTENT="gittam Generosoru Michaelis Szmurawski et Catharinæ CC. LL. Admi:"
+                    HPOS="435.0"
+                    VPOS="1238.0"
+                    WIDTH="782.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8ec5f5e3"
+                    TAGREFS="LT13"
+                    BASELINE="436 1321 1200 1307" 
+                    HPOS="434.0"
+                    VPOS="1278.0"
+                    WIDTH="766.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="435 1320 435 1333 455 1343 491 1333 556 1343 574 1330 626 1330 755 1341 783 1327 829 1327 853 1339 946 1338 956 1326 1091 1335 1137 1321 1198 1332 1200 1306 1195 1278 1076 1287 1022 1281 1010 1288 977 1282 925 1290 852 1284 834 1293 434 1293 435 1320"/></Shape>
+            <String CONTENT="nistrator protune Narajoviensiu. Patrini fuerut Magnifico Dnus."
+                    HPOS="434.0"
+                    VPOS="1278.0"
+                    WIDTH="766.0"
+                    HEIGHT="65.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b8b4850"
+                    TAGREFS="LT13"
+                    BASELINE="439 1365 1195 1350" 
+                    HPOS="437.0"
+                    VPOS="1321.0"
+                    WIDTH="757.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="438 1364 440 1393 476 1381 555 1390 589 1376 679 1376 735 1387 920 1376 958 1382 971 1370 1017 1381 1194 1369 1194 1349 1189 1321 1038 1332 962 1323 926 1333 868 1327 811 1336 753 1327 704 1338 676 1329 652 1339 556 1332 508 1342 452 1333 437 1341 438 1364"/></Shape>
+            <String CONTENT="Joannes Gierkowski Administrator protune Blolenensis, cu Mgnfica"
+                    HPOS="437.0"
+                    VPOS="1321.0"
+                    WIDTH="757.0"
+                    HEIGHT="72.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fe962a7f"
+                    TAGREFS="LT13"
+                    BASELINE="437 1404 1198 1394" 
+                    HPOS="434.0"
+                    VPOS="1364.0"
+                    WIDTH="763.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="435 1403 435 1418 476 1430 482 1430 495 1415 641 1415 659 1429 708 1429 725 1414 756 1426 901 1424 928 1412 943 1426 977 1426 989 1415 1016 1421 1031 1409 1049 1423 1125 1421 1137 1412 1194 1415 1197 1393 1192 1367 1153 1373 1143 1364 1104 1372 1089 1366 1038 1375 976 1369 971 1369 961 1376 864 1370 852 1379 777 1379 767 1369 759 1369 743 1379 649 1370 617 1381 562 1372 535 1382 528 1373 468 1373 434 1382 435 1403"/></Shape>
+            <String CONTENT="ae Gnsa Dna Petronella Romanowa. Omnes protune fuerut de"
+                    HPOS="434.0"
+                    VPOS="1364.0"
+                    WIDTH="763.0"
+                    HEIGHT="66.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_11c88d18"
+                    TAGREFS="LT13"
+                    BASELINE="440 1446 667 1443" 
+                    HPOS="437.0"
+                    VPOS="1411.0"
+                    WIDTH="228.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="438 1445 438 1470 449 1479 450 1479 452 1479 453 1479 455 1479 477 1469 522 1479 523 1479 665 1472 665 1442 662 1420 589 1411 588 1411 586 1411 549 1421 547 1421 498 1412 497 1412 495 1412 473 1421 464 1412 462 1412 461 1412 459 1412 458 1412 437 1421 438 1445"/></Shape>
+            <String CONTENT="Oppido Narajow."
+                    HPOS="437.0"
+                    VPOS="1411.0"
+                    WIDTH="228.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6d5577b2"
+                    TAGREFS="LT13"
+                    BASELINE="472 1509 1216 1489" 
+                    HPOS="470.0"
+                    VPOS="1457.0"
+                    WIDTH="744.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="471 1508 471 1520 520 1525 558 1517 586 1525 608 1514 665 1514 701 1522 731 1512 756 1521 780 1511 813 1520 877 1508 928 1517 1050 1503 1083 1512 1089 1512 1101 1503 1123 1511 1214 1508 1214 1488 1211 1466 1104 1457 1079 1467 1005 1460 977 1470 907 1463 888 1473 726 1476 702 1467 682 1478 665 1472 552 1481 526 1472 470 1482 471 1508"/></Shape>
+            <String CONTENT="Die 19. 7bris Ego qui Supra. Baptisavi Filiu Nne Mathæum"
+                    HPOS="470.0"
+                    VPOS="1457.0"
+                    WIDTH="744.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5929c212"
+                    TAGREFS="LT13"
+                    BASELINE="432 1543 1212 1526" 
+                    HPOS="429.0"
+                    VPOS="1496.0"
+                    WIDTH="782.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="431 1542 431 1558 574 1551 641 1558 658 1549 670 1557 788 1555 801 1546 931 1543 1147 1546 1211 1536 1211 1525 1207 1497 1138 1505 1073 1496 1047 1503 964 1499 923 1509 853 1500 832 1512 750 1512 728 1503 702 1514 653 1505 640 1515 600 1506 571 1517 537 1508 517 1515 456 1509 429 1518 431 1542"/></Shape>
+            <String CONTENT="Laboriosorum Josephi Jasinski et Mariannæ CC.LL Patrini fuerut"
+                    HPOS="429.0"
+                    VPOS="1496.0"
+                    WIDTH="782.0"
+                    HEIGHT="62.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b7fca253"
+                    TAGREFS="LT13"
+                    BASELINE="441 1581 1216 1564" 
+                    HPOS="438.0"
+                    VPOS="1531.0"
+                    WIDTH="776.0"
+                    HEIGHT="97.0">
+            <Shape><Polygon POINTS="440 1579 440 1627 499 1628 529 1597 595 1590 613 1597 677 1588 720 1613 758 1612 800 1585 825 1585 835 1597 841 1597 882 1582 950 1582 989 1618 1214 1603 1211 1542 1156 1531 1123 1542 1073 1533 1068 1533 1055 1543 1011 1537 974 1545 935 1536 858 1537 846 1548 817 1539 785 1551 664 1551 653 1542 646 1542 631 1552 577 1543 552 1554 464 1546 438 1554 440 1579"/></Shape>
+            <String CONTENT="Stephano Sidor, cu Anastasia Dwornikowa. Omnes fuerut de Narajow."
+                    HPOS="438.0"
+                    VPOS="1531.0"
+                    WIDTH="776.0"
+                    HEIGHT="97.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aa3f2d3e"
+                    TAGREFS="LT13"
+                    BASELINE="1142 1628 1213 1627" 
+                    HPOS="1140.0"
+                    VPOS="1594.0"
+                    WIDTH="71.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="1141 1627 1141 1649 1208 1651 1211 1625 1208 1602 1161 1594 1159 1594 1158 1594 1140 1600 1141 1627"/></Shape>
+            <String CONTENT="October"
+                    HPOS="1140.0"
+                    VPOS="1594.0"
+                    WIDTH="71.0"
+                    HEIGHT="57.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="846.0"
+                   VPOS="1651.0"
+                   WIDTH="50.0"
+                   HEIGHT="46.0"
+                   ID="eSc_textblock_c2e905fb"
+                   TAGREFS="BT33">
+          <Shape><Polygon POINTS="896 1651 896 1697 846 1697 846 1651"/></Shape>
+          <TextLine ID="eSc_line_1c626f92"
+                    TAGREFS="LT2"
+                    BASELINE="848 1686 897 1684" 
+                    HPOS="846.0"
+                    VPOS="1654.0"
+                    WIDTH="49.0"
+                    HEIGHT="36.0">
+            <Shape><Polygon POINTS="847 1685 847 1690 894 1688 895 1682 891 1654 846 1663 847 1685"/></Shape>
+            <String CONTENT="52"
+                    HPOS="846.0"
+                    VPOS="1654.0"
+                    WIDTH="49.0"
+                    HEIGHT="36.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2215.0"
+                   VPOS="104.0"
+                   WIDTH="54.0"
+                   HEIGHT="42.0"
+                   ID="eSc_textblock_a861cb5c"
+                   TAGREFS="BT33">
+          <Shape><Polygon POINTS="2215 146 2215 104 2269 104 2269 146"/></Shape>
+          <TextLine ID="eSc_line_745978ab"
+                    TAGREFS="LT2"
+                    BASELINE="2217 133 2262 133" 
+                    HPOS="2216.0"
+                    VPOS="104.0"
+                    WIDTH="45.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="2246 104 2231 104 2216 132 2216 180 2261 170 2261 132 2261 104 2246 104"/></Shape>
+            <String CONTENT="53."
+                    HPOS="2216.0"
+                    VPOS="104.0"
+                    WIDTH="45.0"
+                    HEIGHT="76.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1675.0"
+                   VPOS="196.0"
+                   WIDTH="241.0"
+                   HEIGHT="73.0"
+                   ID="eSc_textblock_c973e827"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="1675 269 1675 196 1916 196 1916 269"/></Shape>
+          <TextLine ID="eSc_line_22ed5741"
+                    TAGREFS="LT13"
+                    BASELINE="1678 262 1914 255" 
+                    HPOS="1676.0"
+                    VPOS="196.0"
+                    WIDTH="237.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="1868 196 1861 196 1856 201 1831 196 1823 196 1808 196 1794 196 1780 196 1711 202 1710 202 1676 217 1677 261 1677 274 1856 277 1858 277 1913 265 1913 253 1901 211 1889 211 1873 196 1868 196"/></Shape>
+            <String CONTENT="October_"
+                    HPOS="1676.0"
+                    VPOS="196.0"
+                    WIDTH="237.0"
+                    HEIGHT="81.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1423.0"
+                   VPOS="251.0"
+                   WIDTH="792.0"
+                   HEIGHT="203.0"
+                   ID="eSc_textblock_405dda72"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1423 454 1425 276 2215 251 2215 431"/></Shape>
+          <TextLine ID="eSc_line_31dfc38b"
+                    TAGREFS="LT13"
+                    BASELINE="1466 303 2188 281" 
+                    HPOS="1464.0"
+                    VPOS="252.0"
+                    WIDTH="722.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="2180 252 2028 259 1941 259 1846 265 1762 265 1613 269 1547 274 1480 274 1464 277 1465 311 1602 310 1649 317 1714 308 1934 308 1949 298 2186 298 2186 280 2180 252"/></Shape>
+            <String CONTENT="Die 20. 8bris: Ego qui Supra. Baptisavi Filium Nne Adal:"
+                    HPOS="1464.0"
+                    VPOS="252.0"
+                    WIDTH="722.0"
+                    HEIGHT="65.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4d5d8ecd"
+                    TAGREFS="LT13"
+                    BASELINE="1433 342 2188 325" 
+                    HPOS="1429.0"
+                    VPOS="292.0"
+                    WIDTH="757.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="1432 341 1432 353 2186 332 2186 323 2182 292 1679 308 1564 302 1555 302 1553 302 1552 302 1550 302 1532 311 1429 305 1432 341"/></Shape>
+            <String CONTENT="bertum Laboriosor Joannis Wirzbicki et Anastasiæ CC. LL. Patrini"
+                    HPOS="1429.0"
+                    VPOS="292.0"
+                    WIDTH="757.0"
+                    HEIGHT="61.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3882690f"
+                    TAGREFS="LT13"
+                    BASELINE="1432 385 2206 368" 
+                    HPOS="1429.0"
+                    VPOS="326.0"
+                    WIDTH="776.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="1431 384 1431 405 1498 390 1540 404 1577 402 1594 389 1620 401 1649 386 1726 386 1740 399 1786 389 1817 398 1880 396 1923 381 1989 381 1997 390 2001 390 2082 377 2122 390 2195 389 2205 375 2205 366 2204 341 2167 326 2162 326 2132 343 2068 343 1967 331 1888 346 1864 334 1752 335 1738 350 1685 337 1655 353 1588 353 1562 341 1556 341 1541 355 1510 349 1429 358 1431 384"/></Shape>
+            <String CONTENT="fuerunt Laborioso Andreas Szalamaja, cu Laboriosa Anna Sydo:"
+                    HPOS="1429.0"
+                    VPOS="326.0"
+                    WIDTH="776.0"
+                    HEIGHT="79.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_61efa431"
+                    TAGREFS="LT13"
+                    BASELINE="1432 425 1849 421" 
+                    HPOS="1429.0"
+                    VPOS="387.0"
+                    WIDTH="418.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="1431 423 1431 438 1535 438 1550 450 1550 451 1552 451 1553 451 1555 453 1623 453 1623 451 1625 451 1626 451 1643 438 1659 438 1686 437 1689 438 1716 450 1717 450 1719 451 1828 451 1828 450 1829 450 1831 450 1847 440 1847 420 1844 395 1643 387 1641 387 1640 387 1638 387 1638 389 1637 389 1632 395 1468 389 1467 389 1429 396 1431 423"/></Shape>
+            <String CONTENT="rowa. Omnes fuerunt de Lany."
+                    HPOS="1429.0"
+                    VPOS="387.0"
+                    WIDTH="418.0"
+                    HEIGHT="66.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1658.0"
+                   VPOS="450.0"
+                   WIDTH="279.0"
+                   HEIGHT="69.0"
+                   ID="eSc_textblock_2418f59f"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="1658 519 1658 450 1937 450 1937 519"/></Shape>
+          <TextLine ID="eSc_line_638f0383"
+                    TAGREFS="LT13"
+                    BASELINE="1650 505 1930 499" 
+                    HPOS="1646.0"
+                    VPOS="450.0"
+                    WIDTH="283.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="1916 450 1901 450 1886 450 1871 450 1856 450 1841 450 1826 450 1811 450 1797 450 1791 451 1762 457 1758 453 1753 450 1752 450 1737 450 1722 450 1707 450 1698 450 1685 457 1680 460 1646 460 1649 504 1649 516 1929 508 1929 498 1926 450 1916 450"/></Shape>
+            <String CONTENT="November"
+                    HPOS="1646.0"
+                    VPOS="450.0"
+                    WIDTH="283.0"
+                    HEIGHT="66.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1436.0"
+                   VPOS="530.0"
+                   WIDTH="804.0"
+                   HEIGHT="659.0"
+                   ID="eSc_textblock_c3d51fdf"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2240 1166 2240 530 1436 530 1438 1189"/></Shape>
+          <TextLine ID="eSc_line_2dde4da1"
+                    TAGREFS="LT13"
+                    BASELINE="1460 571 2206 560" 
+                    HPOS="1458.0"
+                    VPOS="531.0"
+                    WIDTH="747.0"
+                    HEIGHT="55.0">
+            <Shape><Polygon POINTS="2129 531 2114 531 2100 531 2097 531 1850 542 1841 542 1840 542 1797 531 1795 531 1794 531 1792 531 1791 531 1774 544 1750 534 1749 534 1747 534 1746 534 1744 534 1732 544 1691 535 1689 535 1688 535 1665 545 1650 534 1649 534 1647 534 1570 534 1568 534 1567 534 1538 545 1523 535 1522 535 1520 535 1476 535 1474 535 1473 535 1471 535 1458 544 1459 569 1459 586 2205 574 2205 559 2201 538 2143 538 2134 531 2129 531"/></Shape>
+            <String CONTENT="Die 3tia 9bris, Ego M. Petro Gorszewicz Curato Narajoviensis"
+                    HPOS="1458.0"
+                    VPOS="531.0"
+                    WIDTH="747.0"
+                    HEIGHT="55.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8f7a2137"
+                    TAGREFS="LT13"
+                    BASELINE="1436 612 2186 597" 
+                    HPOS="1434.0"
+                    VPOS="566.0"
+                    WIDTH="751.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="1435 611 1435 623 1464 623 1476 635 1520 633 1532 620 1704 619 1714 630 1719 630 1876 627 1888 617 1908 626 1967 613 2108 623 2185 607 2185 596 2180 568 2052 575 2041 566 2034 566 2019 577 1938 578 1891 572 1879 581 1795 581 1782 572 1774 572 1764 581 1750 572 1723 580 1670 574 1665 574 1655 581 1580 575 1553 586 1517 577 1511 577 1500 587 1462 580 1434 589 1435 611"/></Shape>
+            <String CONTENT="Baptisavi Filiu Nne Carolum Laboriosor Andreæ Lypiow, et"
+                    HPOS="1434.0"
+                    VPOS="566.0"
+                    WIDTH="751.0"
+                    HEIGHT="69.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9aa351ea"
+                    TAGREFS="LT13"
+                    BASELINE="1440 656 2178 641 2207 645" 
+                    HPOS="1437.0"
+                    VPOS="610.0"
+                    WIDTH="768.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="1438 654 1438 663 1497 677 1517 663 1620 663 1635 674 1641 674 1695 660 1771 671 1817 657 1831 669 1908 668 1943 656 1973 666 2068 665 2116 651 2177 651 2202 662 2205 644 2204 617 2141 610 2132 619 2092 611 2083 620 2059 614 2013 622 1998 613 1991 613 1982 623 1934 623 1886 614 1805 626 1738 620 1725 626 1717 619 1661 619 1500 632 1464 623 1437 632 1438 654"/></Shape>
+            <String CONTENT="Reginæ CC. LL. Patrini fuerunt Laboriosus Gregorio Dziekciarz"
+                    HPOS="1437.0"
+                    VPOS="610.0"
+                    WIDTH="768.0"
+                    HEIGHT="67.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f4425d02"
+                    TAGREFS="LT13"
+                    BASELINE="1445 696 2171 687" 
+                    HPOS="1443.0"
+                    VPOS="657.0"
+                    WIDTH="727.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1444 695 1444 713 1489 713 1508 729 1598 727 1619 711 1688 717 1704 710 1740 710 1756 726 1762 726 1794 713 1831 724 1867 708 1988 723 2064 713 2168 720 2170 686 2167 665 2044 657 2019 665 1694 662 1680 669 1511 665 1443 672 1444 695"/></Shape>
+            <String CONTENT="cu Laboriosa Marianna Malyska. Omnes fuerut, de Lany"
+                    HPOS="1443.0"
+                    VPOS="657.0"
+                    WIDTH="727.0"
+                    HEIGHT="72.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6aeccef6"
+                    TAGREFS="LT13"
+                    BASELINE="1451 766 2218 751" 
+                    HPOS="1449.0"
+                    VPOS="718.0"
+                    WIDTH="768.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="1450 765 1450 783 1577 777 1605 786 1616 775 1659 775 1671 786 1676 786 1758 784 1782 772 1807 783 1868 772 1955 780 1988 769 2032 778 2055 768 2141 774 2152 765 2165 775 2170 775 2217 771 2217 750 2214 726 2140 718 2108 729 2046 721 1983 732 1911 723 1902 735 1449 736 1450 765"/></Shape>
+            <String CONTENT="Die 21. 9bris. Ego qui Supra. Baptisavi Filiu Nne Mi:"
+                    HPOS="1449.0"
+                    VPOS="718.0"
+                    WIDTH="768.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9654b362"
+                    TAGREFS="LT13"
+                    BASELINE="1442 801 2197 796" 
+                    HPOS="1440.0"
+                    VPOS="766.0"
+                    WIDTH="755.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="1441 799 1441 818 2194 814 2195 795 2192 768 2029 766 2028 766 2026 766 2025 766 2020 769 2014 774 2004 771 1992 766 1991 766 1989 766 1964 771 1938 775 1846 772 1729 769 1728 769 1698 775 1689 777 1682 775 1661 769 1659 769 1658 769 1513 777 1470 769 1468 769 1467 769 1440 778 1441 799"/></Shape>
+            <String CONTENT="chaelem Laboriosor Andreæ Zadlowski et Anastasiæ CC. LL."
+                    HPOS="1440.0"
+                    VPOS="766.0"
+                    WIDTH="755.0"
+                    HEIGHT="52.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_088a7b38"
+                    TAGREFS="LT13"
+                    BASELINE="1444 852 2199 835" 
+                    HPOS="1441.0"
+                    VPOS="805.0"
+                    WIDTH="757.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="1443 851 1443 863 1552 871 1638 860 1694 868 1792 857 1816 865 1935 854 1976 860 2013 851 2197 854 2198 833 2195 811 2026 805 2002 814 1943 806 1920 815 1892 809 1817 818 1771 811 1753 820 1655 814 1565 824 1455 818 1441 824 1443 851"/></Shape>
+            <String CONTENT="Patrini fuerunt: honesto Simeon Lawdecki. Civis Narajoviensis,"
+                    HPOS="1441.0"
+                    VPOS="805.0"
+                    WIDTH="757.0"
+                    HEIGHT="66.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6c70ee87"
+                    TAGREFS="LT13"
+                    BASELINE="1442 895 2222 881" 
+                    HPOS="1440.0"
+                    VPOS="847.0"
+                    WIDTH="780.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="1441 895 1441 905 1491 905 1507 914 1513 914 1528 905 1564 915 1570 915 1588 903 1613 914 1667 903 1753 912 1791 902 1904 905 1935 897 1947 908 1986 909 2010 893 2100 893 2111 905 2185 893 2219 899 2220 880 2219 856 2205 847 2138 847 2034 860 1994 850 1979 863 1950 863 1902 851 1880 863 1740 856 1717 868 1652 868 1617 857 1589 871 1540 871 1528 860 1486 871 1476 860 1470 860 1440 869 1441 895"/></Shape>
+            <String CONTENT="cu laboriosa Catharina Zadlowska. Adstantes fuerunt Fedko Sza."
+                    HPOS="1440.0"
+                    VPOS="847.0"
+                    WIDTH="780.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_877a5a0b"
+                    TAGREFS="LT13"
+                    BASELINE="1443 938 2103 921" 
+                    HPOS="1440.0"
+                    VPOS="892.0"
+                    WIDTH="662.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="1441 936 1441 959 1523 960 1537 948 1550 957 1613 959 1650 942 1743 956 1805 939 1835 947 1852 938 2102 938 2102 920 2098 896 2034 902 1992 892 1958 903 1947 893 1913 900 1873 895 1840 905 1831 896 1755 897 1735 911 1619 912 1564 902 1550 914 1449 905 1440 911 1441 936"/></Shape>
+            <String CONTENT="lamaja tantum; Omnes fuerunt de Villa Rohaczyn."
+                    HPOS="1440.0"
+                    VPOS="892.0"
+                    WIDTH="662.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_50f4ad12"
+                    TAGREFS="LT13"
+                    BASELINE="1480 1007 2210 998" 
+                    HPOS="1477.0"
+                    VPOS="965.0"
+                    WIDTH="731.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="1479 1006 1479 1024 1555 1017 1585 1027 1640 1018 1711 1026 1764 1014 1810 1024 1843 1012 1902 1023 1997 1012 2070 1021 2107 1009 2205 1020 2208 997 2205 974 2150 969 2131 977 2119 965 2111 965 2098 977 2055 978 2035 965 1962 965 1891 969 1874 981 1741 981 1717 974 1695 983 1623 975 1556 984 1540 971 1500 971 1477 983 1479 1006"/></Shape>
+            <String CONTENT="Die 25. 9bris. Ego qui supra Baptisavi Filiam Nne Mari:"
+                    HPOS="1477.0"
+                    VPOS="965.0"
+                    WIDTH="731.0"
+                    HEIGHT="62.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a0425c7e"
+                    TAGREFS="LT13"
+                    BASELINE="1450 1040 2217 1033" 
+                    HPOS="1447.0"
+                    VPOS="1005.0"
+                    WIDTH="769.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="1449 1039 1449 1065 1522 1057 1595 1063 1625 1051 1719 1062 1759 1050 1792 1062 1867 1062 1925 1048 2061 1048 2082 1056 2135 1047 2186 1057 2216 1045 2216 1032 2213 1012 2067 1005 2058 1012 1962 1006 1913 1014 1783 1008 1746 1017 1447 1017 1449 1039"/></Shape>
+            <String CONTENT="anna Laboriosor Alexandri Dabrowski et Annæ CC. LL. Patrini fu:"
+                    HPOS="1447.0"
+                    VPOS="1005.0"
+                    WIDTH="769.0"
+                    HEIGHT="60.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_514ce1d2"
+                    TAGREFS="LT13"
+                    BASELINE="1450 1077 2217 1071" 
+                    HPOS="1447.0"
+                    VPOS="1044.0"
+                    WIDTH="769.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="1449 1076 1449 1093 1573 1093 1602 1105 1625 1094 1637 1103 1828 1102 1844 1087 1907 1085 1932 1097 1983 1087 1999 1100 2100 1084 2144 1085 2162 1099 2168 1099 2197 1084 2211 1088 2216 1069 2213 1051 2061 1044 2025 1051 1905 1045 1862 1053 1632 1048 1447 1056 1449 1076"/></Shape>
+            <String CONTENT="erunt M. ae Gnso D. Joannes Jaworski Attentor Sylvar, cu Anasta"
+                    HPOS="1447.0"
+                    VPOS="1044.0"
+                    WIDTH="769.0"
+                    HEIGHT="61.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_64dafd1d"
+                    TAGREFS="LT13"
+                    BASELINE="1446 1122 2209 1106" 
+                    HPOS="1443.0"
+                    VPOS="1075.0"
+                    WIDTH="765.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="1444 1121 1444 1133 1532 1133 1583 1144 1620 1132 1720 1141 1792 1127 1876 1136 1940 1124 1997 1135 2073 1121 2088 1132 2150 1130 2162 1121 2207 1129 2208 1105 2204 1082 2159 1084 2140 1075 2059 1087 1856 1081 1786 1094 1443 1094 1444 1121"/></Shape>
+            <String CONTENT="sia Kolodzicha. Adstantes fuerunt honestus Thomas Michalski, cum"
+                    HPOS="1443.0"
+                    VPOS="1075.0"
+                    WIDTH="765.0"
+                    HEIGHT="69.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c50874ff"
+                    TAGREFS="LT13"
+                    BASELINE="1448 1165 2201 1144" 
+                    HPOS="1446.0"
+                    VPOS="1115.0"
+                    WIDTH="754.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="1447 1164 1447 1182 1483 1190 1488 1190 1500 1181 1514 1191 1522 1191 1532 1179 1558 1179 1579 1193 1586 1193 1601 1179 1758 1181 1814 1172 1865 1187 1916 1178 1934 1191 2200 1184 2200 1142 2195 1121 2091 1123 2056 1115 1964 1126 1944 1118 1920 1129 1844 1130 1831 1123 1788 1132 1695 1126 1643 1136 1597 1129 1571 1136 1505 1132 1491 1141 1455 1133 1446 1139 1447 1164"/></Shape>
+            <String CONTENT="laboriosa Feska Nedwedicha: Omnes fuerunt de Oppido Narajow"
+                    HPOS="1446.0"
+                    VPOS="1115.0"
+                    WIDTH="754.0"
+                    HEIGHT="78.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1641.0"
+                   VPOS="1195.0"
+                   WIDTH="313.0"
+                   HEIGHT="69.0"
+                   ID="eSc_textblock_44e7f1ae"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="1641 1264 1641 1195 1954 1195 1954 1264"/></Shape>
+          <TextLine ID="eSc_line_b6e2f4b2"
+                    TAGREFS="LT13"
+                    BASELINE="1635 1246 1943 1248" 
+                    HPOS="1632.0"
+                    VPOS="1196.0"
+                    WIDTH="309.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="1888 1196 1873 1196 1858 1196 1843 1196 1828 1196 1823 1196 1782 1203 1761 1203 1752 1196 1738 1196 1723 1196 1708 1196 1694 1196 1686 1196 1673 1208 1670 1209 1634 1209 1634 1245 1632 1266 1661 1275 1662 1275 1664 1275 1940 1272 1941 1247 1938 1200 1908 1205 1901 1200 1894 1196 1888 1196"/></Shape>
+            <String CONTENT="December"
+                    HPOS="1632.0"
+                    VPOS="1196.0"
+                    WIDTH="309.0"
+                    HEIGHT="79.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1446.0"
+                   VPOS="1264.0"
+                   WIDTH="821.0"
+                   HEIGHT="351.0"
+                   ID="eSc_textblock_b31dca28"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2267 1615 2267 1264 1446 1264 1446 1615"/></Shape>
+          <TextLine ID="eSc_line_b0926590"
+                    TAGREFS="LT13"
+                    BASELINE="1493 1309 2225 1298" 
+                    HPOS="1491.0"
+                    VPOS="1264.0"
+                    WIDTH="732.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="2207 1264 2192 1264 2177 1264 2162 1264 2147 1264 2132 1264 2117 1264 2102 1264 2091 1264 1795 1275 1753 1275 1750 1272 1741 1264 1740 1264 1738 1264 1737 1264 1735 1264 1704 1273 1698 1275 1694 1273 1674 1266 1673 1266 1671 1266 1617 1273 1516 1267 1514 1267 1513 1267 1491 1276 1492 1308 1492 1321 2222 1314 2223 1297 2219 1264 2207 1264"/></Shape>
+            <String CONTENT="Die 11. Xbris Ego qui supra. Baptisavi Filium Nne Thoma"
+                    HPOS="1491.0"
+                    VPOS="1264.0"
+                    WIDTH="732.0"
+                    HEIGHT="57.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_40b86e8e"
+                    TAGREFS="LT13"
+                    BASELINE="1464 1346 2229 1334" 
+                    HPOS="1461.0"
+                    VPOS="1303.0"
+                    WIDTH="767.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="1462 1345 1462 1352 1507 1361 1522 1354 1613 1360 1640 1352 1647 1360 1653 1360 1682 1349 1746 1358 1865 1348 2028 1354 2140 1342 2208 1351 2228 1342 2228 1333 2223 1308 2083 1312 2040 1303 2031 1315 1892 1315 1846 1305 1823 1315 1776 1306 1720 1318 1673 1308 1649 1320 1628 1311 1598 1320 1461 1312 1462 1345"/></Shape>
+            <String CONTENT="Nobilium Joannis Jaworski et Mariannæ CC. LL. Patrini fuerunt Labo:"
+                    HPOS="1461.0"
+                    VPOS="1303.0"
+                    WIDTH="767.0"
+                    HEIGHT="58.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dafc6fcb"
+                    TAGREFS="LT13"
+                    BASELINE="1461 1387 2217 1367" 
+                    HPOS="1458.0"
+                    VPOS="1335.0"
+                    WIDTH="758.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="2174 1335 2146 1335 2134 1342 2108 1336 2071 1336 1979 1348 1935 1338 1922 1339 1895 1349 1867 1341 1861 1341 1852 1349 1825 1342 1802 1354 1716 1354 1691 1343 1685 1343 1665 1355 1458 1354 1459 1400 1523 1400 1547 1409 1579 1397 1650 1397 1692 1411 1747 1409 1759 1400 1800 1408 1804 1408 1810 1399 1864 1406 1876 1393 1970 1403 2014 1393 2041 1402 2108 1393 2192 1397 2216 1387 2213 1339 2174 1335"/></Shape>
+            <String CONTENT="riosus Gregorius Zolnowski, cu honesta Catharina Michalska. Omnes"
+                    HPOS="1458.0"
+                    VPOS="1335.0"
+                    WIDTH="758.0"
+                    HEIGHT="76.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ec207663"
+                    TAGREFS="LT13"
+                    BASELINE="1464 1420 1689 1416" 
+                    HPOS="1461.0"
+                    VPOS="1387.0"
+                    WIDTH="227.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="1462 1418 1462 1448 1526 1440 1537 1448 1546 1455 1547 1455 1549 1455 1550 1455 1552 1455 1576 1446 1579 1446 1588 1446 1668 1454 1670 1454 1671 1454 1688 1445 1688 1415 1685 1396 1604 1387 1602 1387 1601 1387 1600 1387 1588 1396 1507 1396 1491 1388 1489 1388 1488 1388 1486 1388 1461 1397 1462 1418"/></Shape>
+            <String CONTENT="fuerut de Narajow"
+                    HPOS="1461.0"
+                    VPOS="1387.0"
+                    WIDTH="227.0"
+                    HEIGHT="68.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_76e7debf"
+                    TAGREFS="LT13"
+                    BASELINE="1493 1489 2232 1459" 
+                    HPOS="1491.0"
+                    VPOS="1424.0"
+                    WIDTH="740.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="1492 1488 1492 1499 1655 1499 1677 1487 1705 1494 1713 1493 1716 1487 1726 1494 1732 1494 1752 1485 1771 1493 1929 1487 2004 1475 2110 1479 2128 1467 2231 1464 2231 1458 2228 1427 2132 1424 2110 1433 2080 1426 2043 1440 1971 1430 1897 1446 1885 1439 1879 1439 1858 1448 1750 1445 1743 1452 1700 1442 1673 1455 1623 1448 1601 1458 1525 1448 1491 1461 1492 1488"/></Shape>
+            <String CONTENT="Die 28 Xbrij. Ego qui Supra. Baptisavi Filiu Nne Joannem"
+                    HPOS="1491.0"
+                    VPOS="1424.0"
+                    WIDTH="740.0"
+                    HEIGHT="75.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8d434c49"
+                    TAGREFS="LT13"
+                    BASELINE="1453 1524 2203 1497" 
+                    HPOS="1450.0"
+                    VPOS="1469.0"
+                    WIDTH="752.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="1822 1476 1779 1488 1725 1481 1595 1491 1570 1485 1549 1496 1488 1488 1450 1499 1452 1531 1471 1539 1535 1528 1701 1531 1810 1527 1834 1518 1861 1525 1874 1517 1952 1522 2083 1509 2201 1509 2202 1496 2198 1470 2088 1476 2041 1469 2028 1481 1905 1484 1822 1476"/></Shape>
+            <String CONTENT="Honesti Adalberti Jarkiewicz et Mariannæ CC. LLL. Patrini fuerunt"
+                    HPOS="1450.0"
+                    VPOS="1469.0"
+                    WIDTH="752.0"
+                    HEIGHT="70.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2465bb14"
+                    TAGREFS="LT13"
+                    BASELINE="1464 1557 2229 1525" 
+                    HPOS="1461.0"
+                    VPOS="1496.0"
+                    WIDTH="767.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="2164 1497 2117 1508 2082 1500 1970 1514 1907 1508 1902 1508 1895 1517 1874 1509 1868 1509 1853 1518 1835 1511 1788 1512 1777 1521 1735 1515 1714 1524 1679 1517 1641 1527 1570 1521 1461 1534 1462 1566 1486 1566 1502 1578 1508 1578 1579 1560 1638 1567 1647 1557 1750 1560 1792 1551 1826 1566 1900 1563 1913 1549 1950 1545 2050 1545 2082 1555 2114 1554 2129 1537 2162 1551 2228 1542 2228 1524 2220 1496 2210 1503 2164 1497"/></Shape>
+            <String CONTENT="Honesto Theodoro Laudecki, cu Honesta Catharina Michalska. Omnes"
+                    HPOS="1461.0"
+                    VPOS="1496.0"
+                    WIDTH="767.0"
+                    HEIGHT="82.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7bec16f8"
+                    TAGREFS="LT13"
+                    BASELINE="1463 1584 1830 1575" 
+                    HPOS="1461.0"
+                    VPOS="1546.0"
+                    WIDTH="368.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1462 1582 1465 1618 1488 1597 1583 1596 1620 1615 1622 1615 1623 1615 1625 1615 1661 1597 1683 1615 1685 1615 1686 1615 1688 1615 1689 1615 1711 1608 1732 1616 1734 1616 1735 1616 1737 1616 1829 1615 1829 1573 1826 1554 1767 1546 1765 1546 1711 1554 1702 1557 1461 1557 1462 1582"/></Shape>
+            <String CONTENT="fuerunt de Oppido Narajow."
+                    HPOS="1461.0"
+                    VPOS="1546.0"
+                    WIDTH="368.0"
+                    HEIGHT="72.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9278cd45"
+                    TAGREFS="LT13"
+                    BASELINE="2132 1601 2259 1599" 
+                    HPOS="2129.0"
+                    VPOS="1564.0"
+                    WIDTH="129.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="2131 1600 2131 1621 2153 1633 2155 1633 2156 1633 2158 1633 2192 1622 2198 1621 2256 1622 2258 1597 2255 1573 2195 1564 2194 1564 2129 1575 2131 1600"/></Shape>
+            <String CONTENT="Anno 1746."
+                    HPOS="2129.0"
+                    VPOS="1564.0"
+                    WIDTH="129.0"
+                    HEIGHT="69.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1847.0"
+                   VPOS="1636.0"
+                   WIDTH="42.0"
+                   HEIGHT="31.0"
+                   ID="eSc_textblock_311c316a"
+                   TAGREFS="BT33">
+          <Shape><Polygon POINTS="1889 1636 1889 1667 1847 1667 1847 1636"/></Shape>
+          <TextLine ID="eSc_line_e572626e"
+                    TAGREFS="LT2"
+                    BASELINE="1848 1658 1884 1657" 
+                    HPOS="1847.0"
+                    VPOS="1637.0"
+                    WIDTH="36.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="1847 1657 1849 1712 1883 1712 1883 1655 1879 1637 1858 1637 1847 1657"/></Shape>
+            <String CONTENT="53"
+                    HPOS="1847.0"
+                    VPOS="1637.0"
+                    WIDTH="36.0"
+                    HEIGHT="75.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
