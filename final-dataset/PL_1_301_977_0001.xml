@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>PL_1_301_977_0001.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT33" LABEL="Page" DESCRIPTION="block type Page"/><OtherTag ID="BT34" LABEL="Date" DESCRIPTION="block type Date"/><OtherTag ID="BT35" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT13" LABEL="Text" DESCRIPTION="line type Text"/><OtherTag ID="LT14" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2500"
+          HEIGHT="1790"
+          PHYSICAL_IMG_NR="100"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2500"
+                  HEIGHT="1790">
+        <TextBlock HPOS="1467.0"
+                   VPOS="556.0"
+                   WIDTH="865.0"
+                   HEIGHT="326.0"
+                   ID="eSc_textblock_aa8c8434"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1724 556 1764 584 1828 592 2277 596 2293 608 2289 750 2332 810 2297 846 2114 866 1574 882 1574 827 1763 811 1768 759 1788 727 1771 707 1716 699 1483 707 1467 691 1471 624 1483 608 1573 600 1681 556"/></Shape>
+          <TextLine ID="eSc_line_32e56710"
+                    TAGREFS="LT13"
+                    BASELINE="1476 669 2282 677" 
+                    HPOS="1473"
+                    VPOS="596"
+                    WIDTH="807"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1474 619 1473 678 1546 677 1582 690 1714 684 1767 692 1801 680 1856 693 1898 680 1911 693 1959 695 2082 683 2110 684 2117 695 2125 696 2167 683 2186 690 2279 681 2280 675 2280 601 2132 601 2095 620 2076 605 2068 605 2055 617 2031 602 2017 599 1988 626 1959 608 1952 608 1917 629 1805 629 1774 604 1764 605 1743 620 1716 596 1710 596 1655 625 1568 608 1519 616 1483 610 1474 619"/></Shape>
+            <String CONTENT="Liber Baptisatoru"
+                    HPOS="1473"
+                    VPOS="596"
+                    WIDTH="807"
+                    HEIGHT="100"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_07c6e7f3"
+                    TAGREFS="LT13"
+                    BASELINE="1831 752 2260 736" 
+                    HPOS="1826"
+                    VPOS="690"
+                    WIDTH="433"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1829 751 1829 768 1941 766 1943 766 1944 766 1944 765 1949 762 1962 750 2065 754 2132 756 2134 756 2135 756 2162 747 2182 741 2259 741 2259 735 2255 690 2214 698 2174 693 2150 692 2149 692 2147 692 2146 692 2141 696 2134 701 2100 698 2034 692 2032 692 2031 692 1988 704 1974 707 1958 705 1907 699 1905 699 1904 699 1902 699 1902 701 1892 708 1892 710 1891 708 1867 698 1865 698 1864 698 1862 698 1826 711 1829 751"/></Shape>
+            <String CONTENT="Copulatorum et"
+                    HPOS="1826"
+                    VPOS="690"
+                    WIDTH="433"
+                    HEIGHT="78"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b4d392ee"
+                    TAGREFS="LT13"
+                    BASELINE="1841 810 2083 788" 
+                    HPOS="1837"
+                    VPOS="754"
+                    WIDTH="245"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1840 809 1840 817 2080 792 2082 787 2077 754 1947 759 1946 759 1944 759 1944 760 1932 769 1929 774 1837 780 1840 809"/></Shape>
+            <String CONTENT="Sepultorum"
+                    HPOS="1837"
+                    VPOS="754"
+                    WIDTH="245"
+                    HEIGHT="63"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a4adadf8"
+                    TAGREFS="LT13"
+                    BASELINE="1600 872 1974 840 2308 830" 
+                    HPOS="1597"
+                    VPOS="784"
+                    WIDTH="710"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1983 798 1968 798 1943 808 1922 802 1907 804 1892 815 1867 806 1849 809 1846 804 1817 821 1719 826 1686 815 1646 820 1597 833 1600 889 1698 887 1711 895 1719 895 1740 881 1756 893 1919 884 1974 857 1999 857 2014 868 2056 854 2108 865 2128 848 2219 844 2249 854 2261 841 2307 838 2302 792 2210 793 2200 784 2192 784 2180 798 2156 786 2053 792 2038 806 1983 798"/></Shape>
+            <String CONTENT="Ad Ecclesiam Parocho al en Narajoviensem"
+                    HPOS="1597"
+                    VPOS="784"
+                    WIDTH="710"
+                    HEIGHT="111"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

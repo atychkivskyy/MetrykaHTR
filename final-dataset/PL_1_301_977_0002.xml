@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>PL_1_301_977_0002.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT33" LABEL="Page" DESCRIPTION="block type Page"/><OtherTag ID="BT34" LABEL="Date" DESCRIPTION="block type Date"/><OtherTag ID="BT35" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT13" LABEL="Text" DESCRIPTION="line type Text"/><OtherTag ID="LT14" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2500"
+          HEIGHT="1790"
+          PHYSICAL_IMG_NR="99"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2500"
+                  HEIGHT="1790">
+        <TextBlock HPOS="1396"
+                   VPOS="72"
+                   WIDTH="980"
+                   HEIGHT="1605"
+                   ID="eSc_textblock_c405a6c7"
+                   TAGREFS="BT33">
+          <Shape><Polygon POINTS="2376 1677 2376 72 1396 72 1396 1677"/></Shape>
+          <TextLine ID="eSc_line_7777315c"
+                    TAGREFS="LT2"
+                    BASELINE="2278 106 2332 106" 
+                    HPOS="2277"
+                    VPOS="70"
+                    WIDTH="54"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2307 70 2292 70 2277 70 2277 105 2277 146 2329 149 2331 105 2331 74 2307 70 2307 70"/></Shape>
+            <String CONTENT="1.a"
+                    HPOS="2277"
+                    VPOS="70"
+                    WIDTH="54"
+                    HEIGHT="79"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_67f0c46b"
+                    TAGREFS="LT13"
+                    BASELINE="1488 228 2283 216" 
+                    HPOS="1483"
+                    VPOS="129"
+                    WIDTH="799"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="1486 226 1486 253 1688 238 1761 252 1780 237 1934 243 1958 235 1989 247 2123 246 2138 234 2171 238 2183 231 2229 243 2235 243 2247 235 2280 240 2282 214 2276 129 2200 150 2120 144 2113 153 2062 153 2043 137 2037 137 1977 165 1861 165 1832 147 1783 146 1738 168 1679 168 1649 140 1537 141 1483 168 1486 226"/></Shape>
+            <String CONTENT="Liber Metrices Baptizatoru"
+                    HPOS="1483"
+                    VPOS="129"
+                    WIDTH="799"
+                    HEIGHT="124"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_470f23ea"
+                    TAGREFS="LT13"
+                    BASELINE="1503 317 2289 311" 
+                    HPOS="1501"
+                    VPOS="243"
+                    WIDTH="787"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1502 316 1502 331 1689 334 1735 326 1773 334 1805 326 1894 337 1973 323 2002 331 2058 323 2071 332 2077 332 2110 322 2128 332 2194 334 2288 319 2288 310 2285 255 2225 243 2180 262 2150 243 2102 243 2083 264 2005 256 1941 264 1931 256 1923 256 1889 265 1870 246 1865 246 1792 253 1779 265 1726 258 1720 258 1708 265 1686 253 1658 258 1647 247 1622 247 1602 268 1592 268 1573 247 1568 247 1501 258 1502 316"/></Shape>
+            <String CONTENT="Ecclesiæ Narajovien Parochi:"
+                    HPOS="1501"
+                    VPOS="243"
+                    WIDTH="787"
+                    HEIGHT="94"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7eeb6ad1"
+                    TAGREFS="LT13"
+                    BASELINE="1500 405 2247 400" 
+                    HPOS="1498"
+                    VPOS="334"
+                    WIDTH="748"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1500 404 1500 416 1520 425 1586 417 1605 428 1611 428 1620 419 1685 428 1786 416 1826 426 2049 414 2125 414 2153 425 2246 419 2243 334 2211 334 2167 355 2152 341 2017 334 1989 358 1965 358 1947 341 1898 355 1828 340 1823 340 1807 352 1773 349 1744 358 1665 349 1622 358 1594 337 1553 337 1498 358 1500 404"/></Shape>
+            <String CONTENT="alis ex antiquo Libro ab"
+                    HPOS="1498"
+                    VPOS="334"
+                    WIDTH="748"
+                    HEIGHT="94"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c4b8485f"
+                    TAGREFS="LT13"
+                    BASELINE="1503 500 1846 488 2297 484" 
+                    HPOS="1500"
+                    VPOS="416"
+                    WIDTH="795"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1502 499 1502 519 1580 508 1720 516 1771 507 1807 514 1817 504 2135 508 2216 496 2228 505 2295 504 2294 423 2262 416 2246 431 2214 416 2153 417 2134 434 2116 419 2068 419 2056 428 2002 420 1979 440 1889 443 1835 443 1816 425 1747 429 1732 444 1662 437 1655 446 1580 440 1562 447 1511 437 1500 444 1502 499"/></Shape>
+            <String CONTENT="Origine manu Michaelis Be:"
+                    HPOS="1500"
+                    VPOS="416"
+                    WIDTH="795"
+                    HEIGHT="103"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2494e1dd"
+                    TAGREFS="LT13"
+                    BASELINE="1509 586 2290 584" 
+                    HPOS="1507"
+                    VPOS="516"
+                    WIDTH="782"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1508 604 1558 596 1589 604 1600 604 1611 592 1713 592 1746 604 1780 592 1825 604 1831 604 1843 596 1874 604 1898 592 1988 592 1999 604 2053 605 2073 592 2113 592 2126 604 2131 604 2288 590 2289 583 2286 526 2220 516 2186 532 2141 529 2132 519 2125 519 2116 528 2088 520 2061 529 2049 517 2041 517 2023 534 2002 534 1965 519 1901 529 1871 516 1816 516 1800 534 1768 534 1752 516 1705 516 1680 534 1535 534 1525 523 1519 523 1507 528 1508 584"/></Shape>
+            <String CONTENT="rezowski Curati ejusæ: Ec:"
+                    HPOS="1507"
+                    VPOS="516"
+                    WIDTH="782"
+                    HEIGHT="89"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6a5f52a7"
+                    TAGREFS="LT13"
+                    BASELINE="1508 677 1846 674 2295 666" 
+                    HPOS="1505"
+                    VPOS="595"
+                    WIDTH="789"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1507 675 1507 692 1600 698 1626 686 1662 686 1771 695 1783 683 1804 683 1829 695 1928 695 1947 680 1983 680 1995 690 1999 690 2065 678 2098 678 2108 687 2116 687 2128 678 2189 689 2219 677 2261 689 2292 683 2294 665 2289 616 2256 616 2229 595 2116 596 2100 611 2064 596 2058 596 2038 619 1947 619 1910 599 1904 599 1883 619 1864 601 1826 599 1785 611 1728 601 1708 623 1602 623 1585 604 1555 604 1537 620 1505 625 1507 675"/></Shape>
+            <String CONTENT="clesiæ de Verbo ad Verbum"
+                    HPOS="1505"
+                    VPOS="595"
+                    WIDTH="789"
+                    HEIGHT="103"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6b7e94cd"
+                    TAGREFS="LT13"
+                    BASELINE="1534 755 2294 755" 
+                    HPOS="1532"
+                    VPOS="693"
+                    WIDTH="760"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1532 754 1534 786 1564 774 1680 774 1692 786 1698 786 1722 774 1789 774 1844 786 1886 777 1953 786 1989 774 2022 787 2094 787 2108 775 2158 783 2194 774 2232 786 2292 775 2291 693 2159 695 2129 711 2094 711 2068 698 2062 698 2043 711 1995 711 1979 699 1937 710 1917 693 1888 693 1870 710 1801 710 1783 693 1713 708 1670 693 1652 710 1619 710 1601 695 1597 695 1532 701 1532 754"/></Shape>
+            <String CONTENT="perscriptus. Die 4ta Julij 1765 Ano"
+                    HPOS="1532"
+                    VPOS="693"
+                    WIDTH="760"
+                    HEIGHT="94"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_74902f25"
+                    TAGREFS="LT13"
+                    BASELINE="1470 853 2280 845" 
+                    HPOS="1467"
+                    VPOS="795"
+                    WIDTH="812"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1468 851 1468 881 1507 881 1528 865 1592 865 1602 874 1607 874 1652 863 1671 878 1698 871 1713 880 1843 877 1867 865 1888 874 1940 862 2001 871 2016 860 2079 868 2117 859 2155 859 2164 868 2191 862 2204 874 2279 872 2274 795 2223 796 2200 820 2158 820 2120 801 2097 809 2083 798 1995 798 1947 820 1917 799 1891 799 1829 821 1789 814 1773 821 1741 801 1735 801 1686 824 1517 824 1492 804 1485 804 1467 815 1468 851"/></Shape>
+            <String CONTENT="Es guoniam Ecclesia prædicta Narajovien eretta fuit"
+                    HPOS="1467"
+                    VPOS="795"
+                    WIDTH="812"
+                    HEIGHT="86"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6dd3c57b"
+                    TAGREFS="LT13"
+                    BASELINE="1511 902 2281 891" 
+                    HPOS="1508"
+                    VPOS="856"
+                    WIDTH="772"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1510 908 1637 917 1714 909 1752 915 1804 905 1844 914 1855 903 1928 903 1947 912 1980 902 2279 903 2280 887 2276 868 2214 868 2170 856 2164 856 2146 869 2129 857 2017 857 1989 872 1947 872 1928 859 1922 859 1889 874 1807 874 1795 865 1720 874 1708 862 1637 862 1619 877 1550 877 1534 863 1528 863 1508 872 1510 896"/></Shape>
+            <String CONTENT="Anno 1705ipso, tamen nullam habeiet inscriptionem"
+                    HPOS="1508"
+                    VPOS="856"
+                    WIDTH="772"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_da144bb3"
+                    TAGREFS="LT13"
+                    BASELINE="1523 940 2264 928" 
+                    HPOS="1520"
+                    VPOS="893"
+                    WIDTH="742"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1522 939 1522 968 1586 963 1597 951 1635 951 1661 968 1700 969 1735 951 1743 957 1749 957 1765 948 1983 945 2011 947 2025 962 2034 962 2085 953 2122 960 2197 942 2216 959 2262 957 2261 906 2231 893 2200 902 2097 895 2059 908 1908 897 1886 912 1841 912 1826 899 1791 911 1762 900 1756 900 1744 912 1704 902 1682 914 1520 905 1522 939"/></Shape>
+            <String CONTENT="Infantium Baptizatorum ad Annum 1707. ideog:"
+                    HPOS="1520"
+                    VPOS="893"
+                    WIDTH="742"
+                    HEIGHT="76"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_27040135"
+                    TAGREFS="LT13"
+                    BASELINE="1677 1041 2060 1026" 
+                    HPOS="1673"
+                    VPOS="983"
+                    WIDTH="386"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2016 983 2001 983 1986 983 1971 983 1956 983 1941 983 1929 983 1911 991 1901 997 1825 999 1817 996 1794 985 1792 985 1750 985 1749 985 1673 1003 1676 1039 1676 1062 1707 1071 1708 1071 1710 1071 1711 1071 1713 1071 1728 1062 1737 1069 1737 1071 1738 1071 1740 1071 1741 1071 1743 1071 1771 1059 1773 1059 1780 1059 1864 1063 1865 1063 1867 1063 1900 1056 1943 1065 1944 1065 2059 1048 2059 1024 2056 984 2028 983 2016 983"/></Shape>
+            <String CONTENT="Annus 1707."
+                    HPOS="1673"
+                    VPOS="983"
+                    WIDTH="386"
+                    HEIGHT="88"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0337ef5b"
+                    TAGREFS="LT13"
+                    BASELINE="1534 1130 2275 1115" 
+                    HPOS="1531"
+                    VPOS="1075"
+                    WIDTH="742"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1920 1075 1900 1085 1889 1076 1825 1076 1792 1087 1773 1082 1759 1096 1697 1096 1656 1081 1613 1081 1592 1094 1531 1084 1534 1145 1546 1141 1601 1156 1628 1139 1682 1147 1705 1138 1735 1147 1761 1136 1794 1148 1816 1136 1902 1150 2052 1130 2125 1130 2141 1144 2214 1135 2273 1141 2271 1087 2220 1076 2216 1076 2208 1085 2094 1088 2065 1081 2025 1090 2007 1082 1956 1091 1920 1075"/></Shape>
+            <String CONTENT="Ego qui supra, baptizavi Infantem Nomine Catharini"
+                    HPOS="1531"
+                    VPOS="1075"
+                    WIDTH="742"
+                    HEIGHT="81"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_33f0e4bd"
+                    TAGREFS="LT13"
+                    BASELINE="1521 1177 1698 1168 2280 1153" 
+                    HPOS="1519"
+                    VPOS="1123"
+                    WIDTH="760"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1520 1176 1520 1191 1573 1185 1588 1196 1749 1193 1768 1179 1792 1191 1916 1187 1926 1175 1968 1187 1983 1173 2001 1181 2089 1170 2122 1179 2162 1176 2170 1166 2237 1166 2256 1175 2262 1175 2279 1164 2279 1151 2274 1132 2231 1132 2217 1123 2210 1123 2194 1135 2149 1135 2113 1123 2062 1126 2052 1138 2023 1126 1959 1127 1943 1141 1825 1132 1798 1145 1788 1135 1782 1135 1752 1147 1719 1135 1664 1136 1644 1150 1616 1142 1608 1153 1519 1153 1520 1176"/></Shape>
+            <String CONTENT="Generosi Josephi Maliszewski Zophiæ Mefelska Conjuugu"
+                    HPOS="1519"
+                    VPOS="1123"
+                    WIDTH="760"
+                    HEIGHT="73"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_10f9c5f3"
+                    TAGREFS="LT13"
+                    BASELINE="1518 1217 1836 1202 2278 1194" 
+                    HPOS="1516"
+                    VPOS="1162"
+                    WIDTH="761"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1517 1215 1517 1242 1598 1232 1617 1241 1680 1241 1705 1229 1777 1236 1794 1220 1886 1224 1920 1217 1931 1226 1937 1226 1964 1215 2047 1229 2068 1212 2110 1212 2126 1226 2170 1227 2191 1209 2208 1209 2276 1223 2277 1193 2273 1172 2210 1172 2176 1162 2117 1175 2059 1164 2040 1176 2005 1166 1953 1179 1920 1169 1841 1182 1619 1188 1568 1178 1516 1190 1517 1215"/></Shape>
+            <String CONTENT="legittomurum. Levantes ex Sacro Fonte fuere Stephanus."
+                    HPOS="1516"
+                    VPOS="1162"
+                    WIDTH="761"
+                    HEIGHT="80"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a0dc5c5e"
+                    TAGREFS="LT13"
+                    BASELINE="1534 1277 2285 1257" 
+                    HPOS="1529"
+                    VPOS="1220"
+                    WIDTH="754"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1532 1276 1532 1293 1586 1284 1629 1291 1646 1282 1686 1293 1759 1279 1870 1287 1897 1276 1925 1285 1965 1278 2107 1281 2120 1270 2155 1276 2176 1267 2282 1273 2283 1255 2282 1233 2244 1220 2238 1220 2229 1227 2198 1221 2173 1235 2122 1223 2098 1230 2074 1224 2059 1238 1988 1233 1952 1241 1937 1229 1931 1229 1904 1242 1841 1232 1744 1247 1713 1235 1652 1248 1623 1238 1592 1250 1573 1239 1529 1239 1532 1276"/></Shape>
+            <String CONTENT="Die 14 Februarij 1707. Baptizavi Infantem Nomine"
+                    HPOS="1529"
+                    VPOS="1220"
+                    WIDTH="754"
+                    HEIGHT="73"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8979ce47"
+                    TAGREFS="LT13"
+                    BASELINE="1525 1314 2274 1293" 
+                    HPOS="1522"
+                    VPOS="1260"
+                    WIDTH="751"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1523 1312 1523 1329 1529 1335 1631 1333 1656 1321 1723 1330 1758 1320 1785 1327 1820 1315 2079 1309 2111 1320 2223 1305 2241 1317 2273 1317 2273 1291 2270 1270 2219 1260 2214 1260 2205 1270 2164 1261 2107 1263 2094 1275 2035 1275 2019 1266 2013 1266 1976 1276 1946 1267 1937 1278 1894 1270 1828 1281 1735 1273 1700 1284 1583 1278 1522 1288 1523 1312"/></Shape>
+            <String CONTENT="Mathiam Adalberti Medycki Annæ Cyriha Conjug"
+                    HPOS="1522"
+                    VPOS="1260"
+                    WIDTH="751"
+                    HEIGHT="75"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5a49625c"
+                    TAGREFS="LT13"
+                    BASELINE="1529 1353 2289 1329" 
+                    HPOS="1526"
+                    VPOS="1299"
+                    WIDTH="762"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1528 1352 1528 1372 1641 1366 1652 1373 1659 1373 1671 1363 1752 1373 1797 1358 1841 1370 1867 1357 1980 1361 2032 1351 2146 1360 2173 1346 2191 1358 2288 1355 2288 1327 2283 1302 2244 1308 2204 1299 2186 1311 2153 1300 2110 1314 2073 1303 2062 1315 2019 1305 1997 1317 1979 1308 1973 1308 1961 1318 1883 1321 1840 1311 1795 1324 1749 1314 1734 1324 1711 1317 1652 1329 1580 1320 1565 1332 1532 1326 1526 1330 1528 1352"/></Shape>
+            <String CONTENT="legitt: Levantes fuere Elias Seniv Eva"
+                    HPOS="1526"
+                    VPOS="1299"
+                    WIDTH="762"
+                    HEIGHT="74"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6a9ab302"
+                    TAGREFS="LT13"
+                    BASELINE="1531 1393 2007 1381" 
+                    HPOS="1528"
+                    VPOS="1352"
+                    WIDTH="477"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1529 1391 1529 1415 1589 1403 1650 1403 1676 1414 1710 1402 1732 1414 1765 1414 1786 1400 1861 1409 1888 1397 1931 1408 2005 1405 2002 1358 1767 1352 1758 1363 1692 1355 1644 1366 1634 1357 1528 1364 1529 1391"/></Shape>
+            <String CONTENT="fidem subscriptus. Iidem qui supra."
+                    HPOS="1528"
+                    VPOS="1352"
+                    WIDTH="477"
+                    HEIGHT="63"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c07bf1c3"
+                    TAGREFS="LT13"
+                    BASELINE="1701 1498 2068 1479" 
+                    HPOS="1700"
+                    VPOS="1432"
+                    WIDTH="367"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2055 1432 2010 1443 1970 1434 1949 1452 1838 1457 1798 1443 1756 1445 1749 1454 1731 1446 1700 1463 1700 1521 1837 1521 1898 1503 1985 1512 2008 1497 2035 1503 2067 1493 2059 1432 2055 1432"/></Shape>
+            <String CONTENT="Annus 1708."
+                    HPOS="1700"
+                    VPOS="1432"
+                    WIDTH="367"
+                    HEIGHT="89"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_583e0585"
+                    TAGREFS="LT13"
+                    BASELINE="1660 1561 2140 1544" 
+                    HPOS="1658"
+                    VPOS="1522"
+                    WIDTH="479"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2135 1522 1944 1522 1929 1525 1914 1522 1868 1522 1859 1525 1849 1522 1810 1522 1798 1528 1786 1522 1658 1522 1659 1594 1702 1594 1713 1582 1759 1590 1791 1570 1835 1572 1870 1588 1967 1570 2040 1582 2059 1560 2137 1558 2135 1522"/></Shape>
+            <String CONTENT="Jotus caret inscriptionsia"
+                    HPOS="1658"
+                    VPOS="1522"
+                    WIDTH="479"
+                    HEIGHT="72"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ec9e9ace"
+                    TAGREFS="LT2"
+                    BASELINE="1819 1644 1884 1642" 
+                    HPOS="1814"
+                    VPOS="1605"
+                    WIDTH="71"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1817 1643 1819 1707 1885 1701 1883 1640 1880 1609 1814 1605 1817 1643"/></Shape>
+            <String CONTENT="-1-"
+                    HPOS="1814"
+                    VPOS="1605"
+                    WIDTH="71"
+                    HEIGHT="102"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
